@@ -1,0 +1,15 @@
+{
+  "repository": "module-genealogy-collaboration-nuxt",
+  "capabilityKey": "liberusoftware/module-genealogy-collaboration",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-genealogy-collaboration-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/genealogy/nextjs/collaboration.md",
+  "presentationPlan": "projects/genealogy/nuxt/collaboration.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "genealogy"
+  ]
+}
